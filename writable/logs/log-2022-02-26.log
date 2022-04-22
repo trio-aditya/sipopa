@@ -1,0 +1,127 @@
+CRITICAL - 2022-02-26 21:05:13 --> Undefined index: kode
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\verifikasi\index.php(65): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 65, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/inde...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(29): view('verifikasi/inde...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->index()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-26 21:07:32 --> Undefined index: kode
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\verifikasi\index.php(64): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 64, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/inde...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(29): view('verifikasi/inde...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->index()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-26 21:07:36 --> Undefined index: kode
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\verifikasi\index.php(64): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 64, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/inde...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(29): view('verifikasi/inde...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->index()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2022-02-26 21:29:17 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') != :MONTH(tanggal != ):
+AND YEAR(tanggal) = '2022'' at line 10
+CRITICAL - 2022-02-26 21:29:17 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') != :MONTH(tanggal != ):
+AND YEAR(tanggal) = '2022'' at line 10
+#0 C:\xampp\htdocs\penerimaan-pad\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT SUM(`rea...', 0)
+#1 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`rea...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`rea...')
+#3 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`rea...', Array, false)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Models\LaporanModel.php(94): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(130): App\Models\LaporanModel->sumRealisasi2()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#8 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+ERROR - 2022-02-26 21:35:25 --> Unknown column 'status' in 'where clause'
+CRITICAL - 2022-02-26 21:35:25 --> Unknown column 'status' in 'where clause'
+#0 C:\xampp\htdocs\penerimaan-pad\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT SUM(`tar...', 0)
+#1 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`tar...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`tar...')
+#3 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`tar...', Array, false)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Models\LaporanModel.php(1023): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(103): App\Models\LaporanModel->sumTarget1()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#8 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2022-02-26 22:26:25 --> Undefined variable: data
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\verifikasi\index.php(139): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 139, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/inde...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(29): view('verifikasi/inde...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->index()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-26 22:49:28 --> Undefined property: App\Controllers\Verifikasi::$VerifikasiModel
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(36): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 36, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->update('166')
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-26 22:50:50 --> Undefined property: App\Controllers\Verifikasi::$VerifikasiModel
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(36): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 36, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->update('164')
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-26 23:30:15 --> Invalid file: auth/profile.php
+#0 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('auth/profile.ph...')
+#1 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('auth/profile', Array, true)
+#2 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Auth.php(134): view('auth/profile', Array)
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Auth->profile()
+#4 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-02-26 04:53:14 --> Undefined index: created_at
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\pages\upload_file.php(67): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 67, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('pages/upload_fi...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Upload.php(25): view('pages/upload_fi...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Upload->index()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Upload))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-26 04:58:08 --> Call to undefined function 2022-02()
+#0 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include()
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('pages/upload_fi...', Array, true)
+#3 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Upload.php(25): view('pages/upload_fi...', Array)
+#4 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Upload->index()
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Upload))
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}

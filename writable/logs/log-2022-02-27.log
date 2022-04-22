@@ -1,0 +1,456 @@
+CRITICAL - 2022-02-27 21:14:54 --> Undefined index: re
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\laporan\perdinas.php(35): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 35, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('laporan/perdina...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(88): view('laporan/perdina...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-27 21:15:06 --> Undefined index: re
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\laporan\perdinas.php(242): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 242, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('laporan/perdina...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(88): view('laporan/perdina...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-27 21:20:48 --> Undefined variable: no
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\laporan\perdinas.php(43): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 43, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('laporan/perdina...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(88): view('laporan/perdina...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2022-02-27 21:31:31 --> Unknown column 're' in 'field list'
+CRITICAL - 2022-02-27 21:31:31 --> Unknown column 're' in 'field list'
+#0 C:\xampp\htdocs\penerimaan-pad\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *, SUM(`...', 0)
+#1 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *, SUM(`...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *, SUM(`...')
+#3 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *, SUM(`...', Array, false)
+#4 C:\xampp\htdocs\penerimaan-pad\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\penerimaan-pad\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\penerimaan-pad\app\Models\LaporanModel.php(36): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(43): App\Models\LaporanModel->getData1()
+#8 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#9 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#10 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+ERROR - 2022-02-27 21:31:40 --> Unknown column 'realisasi.re' in 'field list'
+CRITICAL - 2022-02-27 21:31:40 --> Unknown column 'realisasi.re' in 'field list'
+#0 C:\xampp\htdocs\penerimaan-pad\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *, SUM(`...', 0)
+#1 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *, SUM(`...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *, SUM(`...')
+#3 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *, SUM(`...', Array, false)
+#4 C:\xampp\htdocs\penerimaan-pad\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\penerimaan-pad\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\penerimaan-pad\app\Models\LaporanModel.php(36): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(43): App\Models\LaporanModel->getData1()
+#8 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#9 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#10 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+ERROR - 2022-02-27 21:35:33 --> Unknown column 'id_opd' in 'where clause'
+CRITICAL - 2022-02-27 21:35:33 --> Unknown column 'id_opd' in 'where clause'
+#0 C:\xampp\htdocs\penerimaan-pad\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `realisa...', 0)
+#1 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `realisa...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `realisa...')
+#3 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT `realisa...', Array, false)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Models\LaporanModel.php(41): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(43): App\Models\LaporanModel->getData1()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#8 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2022-02-27 21:36:28 --> Undefined index: kode
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\laporan\perdinas.php(43): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 43, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('laporan/perdina...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(88): view('laporan/perdina...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-27 21:36:50 --> Undefined index: kode
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\laporan\perdinas.php(43): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 43, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('laporan/perdina...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(88): view('laporan/perdina...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2022-02-27 21:36:57 --> Unknown column 'realisasi' in 'field list'
+CRITICAL - 2022-02-27 21:36:57 --> Unknown column 'realisasi' in 'field list'
+#0 C:\xampp\htdocs\penerimaan-pad\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `realisa...', 0)
+#1 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `realisa...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `realisa...')
+#3 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT `realisa...', Array, false)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Models\LaporanModel.php(36): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(43): App\Models\LaporanModel->getData1()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#8 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2022-02-27 21:37:16 --> Undefined index: kode
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\laporan\perdinas.php(43): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 43, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('laporan/perdina...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(88): view('laporan/perdina...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2022-02-27 21:41:21 --> Unknown column 'id_opd' in 'where clause'
+CRITICAL - 2022-02-27 21:41:21 --> Unknown column 'id_opd' in 'where clause'
+#0 C:\xampp\htdocs\penerimaan-pad\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `realisa...', 0)
+#1 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `realisa...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `realisa...')
+#3 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT `realisa...', Array, false)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Models\LaporanModel.php(41): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(43): App\Models\LaporanModel->getData1()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#8 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2022-02-27 21:41:55 --> Undefined index: kode
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\laporan\perdinas.php(43): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 43, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('laporan/perdina...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(88): view('laporan/perdina...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-27 21:42:19 --> Undefined index: kode
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\laporan\perdinas.php(43): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 43, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('laporan/perdina...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(88): view('laporan/perdina...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2022-02-27 21:43:03 --> Table 'penerimaan-pad.real' doesn't exist
+CRITICAL - 2022-02-27 21:43:03 --> Table 'penerimaan-pad.real' doesn't exist
+#0 C:\xampp\htdocs\penerimaan-pad\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `realisa...', 0)
+#1 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `realisa...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `realisa...')
+#3 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT `realisa...', Array, false)
+#4 C:\xampp\htdocs\penerimaan-pad\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\penerimaan-pad\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\penerimaan-pad\app\Models\LaporanModel.php(36): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(43): App\Models\LaporanModel->getData1()
+#8 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#9 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#10 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+ERROR - 2022-02-27 21:43:18 --> Unknown column 'real.target_pad_id' in 'on clause'
+CRITICAL - 2022-02-27 21:43:18 --> Unknown column 'real.target_pad_id' in 'on clause'
+#0 C:\xampp\htdocs\penerimaan-pad\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT SUM(`rea...', 0)
+#1 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`rea...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`rea...')
+#3 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`rea...', Array, false)
+#4 C:\xampp\htdocs\penerimaan-pad\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\penerimaan-pad\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\penerimaan-pad\app\Models\LaporanModel.php(35): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(43): App\Models\LaporanModel->getData1()
+#8 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#9 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#10 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+ERROR - 2022-02-27 21:43:20 --> Unknown column 'real.target_pad_id' in 'on clause'
+CRITICAL - 2022-02-27 21:43:20 --> Unknown column 'real.target_pad_id' in 'on clause'
+#0 C:\xampp\htdocs\penerimaan-pad\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT SUM(`rea...', 0)
+#1 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`rea...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`rea...')
+#3 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`rea...', Array, false)
+#4 C:\xampp\htdocs\penerimaan-pad\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\penerimaan-pad\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\penerimaan-pad\app\Models\LaporanModel.php(35): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(43): App\Models\LaporanModel->getData1()
+#8 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#9 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#10 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2022-02-27 21:43:40 --> Undefined index: kode
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\laporan\perdinas.php(43): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 43, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('laporan/perdina...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(88): view('laporan/perdina...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2022-02-27 21:43:55 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*) AS *, SUM(`realisasi`) AS `realisasi`
+FROM `kode_rekening`
+JOIN `opd` ON `...' at line 1
+CRITICAL - 2022-02-27 21:43:55 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*) AS *, SUM(`realisasi`) AS `realisasi`
+FROM `kode_rekening`
+JOIN `opd` ON `...' at line 1
+#0 C:\xampp\htdocs\penerimaan-pad\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT SUM(*) A...', 0)
+#1 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(*) A...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(*) A...')
+#3 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT SUM(*) A...', Array, false)
+#4 C:\xampp\htdocs\penerimaan-pad\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\penerimaan-pad\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\penerimaan-pad\app\Models\LaporanModel.php(36): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(43): App\Models\LaporanModel->getData1()
+#8 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#9 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#10 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2022-02-27 21:45:01 --> Undefined index: kode
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\laporan\perdinas.php(43): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 43, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('laporan/perdina...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(88): view('laporan/perdina...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-27 21:45:25 --> Undefined index: kode
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\laporan\perdinas.php(43): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 43, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('laporan/perdina...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(88): view('laporan/perdina...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-27 21:50:42 --> Undefined index: kode
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\laporan\perdinas.php(43): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 43, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('laporan/perdina...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(88): view('laporan/perdina...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-27 04:10:21 --> Trying to get property 'realisasi' of non-object
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\laporan\perdinas.php(280): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 280, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('laporan/perdina...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(88): view('laporan/perdina...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-27 04:15:59 --> Undefined index: realisasi
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\laporan\perdinas.php(280): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 280, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('laporan/perdina...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(88): view('laporan/perdina...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-27 19:55:47 --> Undefined index: realisasi
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\laporan\perdinas.php(280): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 280, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('laporan/perdina...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(88): view('laporan/perdina...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-27 20:10:05 --> Too few arguments to function App\Controllers\LaporanPerdinas::index(), 0 passed in C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php on line 824 and exactly 1 expected
+#0 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-27 20:11:29 --> Trying to get property 'realisasi' of non-object
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(86): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 86, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-27 20:17:51 --> Undefined index: realisasi
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\laporan\perdinas.php(280): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 280, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('laporan/perdina...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(87): view('laporan/perdina...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-27 20:18:36 --> Array to string conversion
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\laporan\perdinas.php(280): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 280, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('laporan/perdina...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(87): view('laporan/perdina...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-27 20:19:29 --> Array to string conversion
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\laporan\perdinas.php(275): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 275, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('laporan/perdina...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(87): view('laporan/perdina...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-27 20:26:21 --> Too few arguments to function App\Models\LaporanModel::getData1(), 0 passed in C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php on line 45 and exactly 1 expected
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(45): App\Models\LaporanModel->getData1()
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-27 20:26:21 --> Too few arguments to function App\Models\LaporanModel::getData1(), 0 passed in C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php on line 45 and exactly 1 expected
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(45): App\Models\LaporanModel->getData1()
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-27 20:26:25 --> Too few arguments to function App\Models\LaporanModel::getData1(), 0 passed in C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php on line 45 and exactly 1 expected
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(45): App\Models\LaporanModel->getData1()
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-27 20:26:29 --> Too few arguments to function App\Models\LaporanModel::getData1(), 0 passed in C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php on line 45 and exactly 1 expected
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(45): App\Models\LaporanModel->getData1()
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-27 20:26:56 --> Too few arguments to function App\Controllers\LaporanPerdinas::index(), 0 passed in C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php on line 824 and exactly 1 expected
+#0 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+ERROR - 2022-02-27 17:00:48 --> Not unique table/alias: 'target_pad'
+CRITICAL - 2022-02-27 17:00:48 --> Not unique table/alias: 'target_pad'
+#0 C:\xampp\htdocs\penerimaan-pad\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT SUM(`rea...', 0)
+#1 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT SUM(`rea...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT SUM(`rea...')
+#3 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT SUM(`rea...', Array, false)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Models\LaporanModel.php(2881): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(235): App\Models\LaporanModel->bsumRealisasi801('02')
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#8 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2022-02-27 20:38:09 --> Undefined variable: bulan_lalu
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 22, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-27 20:57:07 --> Invalid file: pages/upload_file.php
+#0 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/upload_fi...')
+#1 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('pages/upload_fi...', Array, true)
+#2 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Upload.php(25): view('pages/upload_fi...', Array)
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Upload->index()
+#4 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Upload))
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-02-27 20:58:59 --> Undefined variable: role
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\pages\upload_file.php(60): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 60, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('pages/upload_fi...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Upload.php(25): view('pages/upload_fi...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Upload->index()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Upload))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}

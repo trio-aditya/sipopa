@@ -1,0 +1,925 @@
+CRITICAL - 2022-03-31 08:52:07 --> Undefined index: id_opd
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(97): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 97, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->load_dinas()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 08:52:08 --> Undefined index: id_opd
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(97): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 97, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->load_dinas()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 08:52:10 --> Undefined index: id_opd
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(97): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 97, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->load_dinas()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 08:52:11 --> Undefined index: id_opd
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(97): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 97, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->load_dinas()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 08:52:28 --> Undefined index: id_opd
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(97): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 97, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->load_dinas()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 08:52:44 --> Undefined index: id_opd
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(97): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 97, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->load_dinas()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 08:53:36 --> Undefined index: id_opd
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(97): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 97, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->load_dinas()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 08:53:56 --> Undefined index: id_opd
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(97): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 97, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->load_dinas()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 08:56:47 --> Undefined index: id_opd
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(97): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 97, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->load_dinas()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 08:56:54 --> Undefined index: id_opd
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(97): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 97, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->load_dinas()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 09:01:34 --> Undefined index: id_opd
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(97): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 97, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->load_dinas()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 09:03:51 --> Undefined index: id_opd
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(97): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 97, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->load_dinas()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 09:04:14 --> Undefined index: id_opd
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(97): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 97, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->load_dinas()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 09:06:11 --> Undefined index: id_opd
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(97): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 97, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->load_dinas()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 09:09:42 --> Undefined index: id_opd
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(97): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 97, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->load_dinas()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 09:11:07 --> Undefined index: id_opd
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(97): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 97, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->load_dinas()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 09:11:28 --> Undefined index: id_opd
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(97): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 97, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->load_dinas()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 09:12:00 --> Undefined index: id_opd
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(97): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 97, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->load_dinas()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 09:12:41 --> Undefined index: id_opd
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(97): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 97, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->load_dinas()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 09:13:58 --> Undefined index: id_opd
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(97): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 97, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->load_dinas()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 09:17:45 --> Undefined index: id_opd
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(97): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 97, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->load_dinas()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 09:18:00 --> Undefined index: id_opd
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(97): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 97, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->load_dinas()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 09:18:23 --> Undefined index: id_opd
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(97): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 97, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->load_dinas()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 09:18:47 --> Undefined index: id_opd
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(97): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 97, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->load_dinas()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 09:18:56 --> Undefined index: id_opd
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(97): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 97, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->load_dinas()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 09:19:00 --> Undefined index: id_opd
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(97): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 97, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->load_dinas()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 09:19:31 --> Undefined index: id_opd
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(97): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 97, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->load_dinas()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 09:21:00 --> Undefined index: id_opd
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(97): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 97, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->load_dinas()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 09:21:13 --> Undefined index: id_opd
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(97): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 97, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->load_dinas()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 09:56:04 --> Undefined index: id_opd
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(97): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 97, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->load_dinas()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 09:56:32 --> Undefined index: id_opd
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(97): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 97, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->load_dinas()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 12:07:25 --> Call to undefined method App\Models\VerifikasiModel::getResultArray
+#0 C:\xampp\htdocs\penerimaan-pad\app\Models\VerifikasiModel.php(98): CodeIgniter\Model->__call('getResultArray', Array)
+#1 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(44): App\Models\VerifikasiModel->getDatatables()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->table_data()
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#4 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-31 12:08:55 --> Call to undefined method App\Models\VerifikasiModel::getResultArray
+#0 C:\xampp\htdocs\penerimaan-pad\app\Models\VerifikasiModel.php(98): CodeIgniter\Model->__call('getResultArray', Array)
+#1 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(44): App\Models\VerifikasiModel->getDatatables()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->table_data()
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#4 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-31 12:09:00 --> Call to undefined method App\Models\VerifikasiModel::getResultArray
+#0 C:\xampp\htdocs\penerimaan-pad\app\Models\VerifikasiModel.php(98): CodeIgniter\Model->__call('getResultArray', Array)
+#1 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(44): App\Models\VerifikasiModel->getDatatables()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->table_data()
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#4 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-31 12:11:13 --> Call to undefined method App\Models\VerifikasiModel::getResultArray
+#0 C:\xampp\htdocs\penerimaan-pad\app\Models\VerifikasiModel.php(98): CodeIgniter\Model->__call('getResultArray', Array)
+#1 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(44): App\Models\VerifikasiModel->getDatatables()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->table_data()
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#4 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-31 12:11:26 --> Undefined index: length
+#0 C:\xampp\htdocs\penerimaan-pad\app\Models\VerifikasiModel.php(90): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 90, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(44): App\Models\VerifikasiModel->getDatatables()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->table_data()
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#4 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-31 12:11:55 --> Call to undefined method App\Models\VerifikasiModel::getResultArray
+#0 C:\xampp\htdocs\penerimaan-pad\app\Models\VerifikasiModel.php(98): CodeIgniter\Model->__call('getResultArray', Array)
+#1 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(44): App\Models\VerifikasiModel->getDatatables()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->table_data()
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#4 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-31 12:15:41 --> Call to undefined method App\Models\VerifikasiModel::getResultArray
+#0 C:\xampp\htdocs\penerimaan-pad\app\Models\VerifikasiModel.php(98): CodeIgniter\Model->__call('getResultArray', Array)
+#1 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(44): App\Models\VerifikasiModel->getDatatables()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->table_data()
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#4 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-31 12:17:05 --> Call to undefined method App\Models\VerifikasiModel::getResultArray
+#0 C:\xampp\htdocs\penerimaan-pad\app\Models\VerifikasiModel.php(98): CodeIgniter\Model->__call('getResultArray', Array)
+#1 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(44): App\Models\VerifikasiModel->getDatatables()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->table_data()
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#4 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-31 12:17:09 --> Undefined index: length
+#0 C:\xampp\htdocs\penerimaan-pad\app\Models\VerifikasiModel.php(97): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 97, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(44): App\Models\VerifikasiModel->getDatatables()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->table_data()
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#4 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-31 12:17:25 --> Call to undefined method App\Models\VerifikasiModel::getResultArray
+#0 C:\xampp\htdocs\penerimaan-pad\app\Models\VerifikasiModel.php(98): CodeIgniter\Model->__call('getResultArray', Array)
+#1 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(44): App\Models\VerifikasiModel->getDatatables()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->table_data()
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#4 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-31 12:17:29 --> Call to undefined method App\Models\VerifikasiModel::getResultArray
+#0 C:\xampp\htdocs\penerimaan-pad\app\Models\VerifikasiModel.php(98): CodeIgniter\Model->__call('getResultArray', Array)
+#1 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(44): App\Models\VerifikasiModel->getDatatables()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->table_data()
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#4 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-31 12:17:41 --> Undefined index: start
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 46, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->table_data()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 12:18:09 --> unlink(C:\xampp\htdocs\penerimaan-pad\writable\debugbar/debugbar_1648744943.json): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(C:\\xampp...', 'C:\\xampp\\htdocs...', 74, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar\Collectors\History.php(74): unlink('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar.php(483): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1648747086, 20)
+#3 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 C:\xampp\htdocs\penerimaan-pad\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 C:\xampp\htdocs\penerimaan-pad\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#7 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-31 12:18:31 --> Undefined index: draw
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(58): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 58, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->table_data()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 12:20:27 --> Call to undefined function App\Controllers\tgl_indo()
+#0 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->table_data()
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-31 12:20:48 --> Call to undefined function App\Controllers\tgl_indo()
+#0 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->table_data()
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-31 12:21:15 --> Function name must be a string
+#0 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->table_data()
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-31 13:00:52 --> Call to a member function limit() on array
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(48): App\Models\VerifikasiModel->getDatatables('', '0', '10')
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->verifikasiAjax()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 13:03:34 --> Undefined variable: realisasi
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\verifikasi\index.php(338): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 338, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/inde...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(36): view('verifikasi/inde...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->index()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-31 21:25:20 --> Too few arguments to function App\Controllers\Verifikasi::filter(), 0 passed in C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php on line 824 and exactly 1 expected
+#0 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->filter()
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-31 21:31:49 --> Call to undefined function tgl_indo()
+#0 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include()
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/filt...', Array, true)
+#3 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(45): view('verifikasi/filt...', Array)
+#4 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->filter('1')
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-31 21:32:03 --> Call to undefined function tgl_indo()
+#0 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include()
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/filt...', Array, true)
+#3 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(45): view('verifikasi/filt...', Array)
+#4 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->filter('1')
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-31 21:33:38 --> Illegal string offset 'tanggal'
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\verifikasi\filter.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', 'C:\\xampp\\htdocs...', 39, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/filt...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(45): view('verifikasi/filt...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->filter('1')
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-31 21:33:42 --> Illegal string offset 'tanggal'
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\verifikasi\filter.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', 'C:\\xampp\\htdocs...', 39, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/filt...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(45): view('verifikasi/filt...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->filter('1')
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-31 21:34:45 --> Illegal string offset 'tanggal'
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\verifikasi\filter.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', 'C:\\xampp\\htdocs...', 39, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/filt...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(45): view('verifikasi/filt...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->filter('1')
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-31 21:35:09 --> Illegal string offset 'jenis_pajak'
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\verifikasi\filter.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', 'C:\\xampp\\htdocs...', 39, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/filt...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(45): view('verifikasi/filt...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->filter('1')
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-31 21:35:47 --> Trying to get property 'tanggal' of non-object
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\verifikasi\filter.php(39): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 39, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/filt...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(45): view('verifikasi/filt...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->filter('1')
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-31 21:35:59 --> Illegal string offset 'tanggal'
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\verifikasi\filter.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', 'C:\\xampp\\htdocs...', 39, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/filt...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(45): view('verifikasi/filt...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->filter('1')
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-31 21:37:33 --> Illegal string offset 'tanggal'
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\verifikasi\filter.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', 'C:\\xampp\\htdocs...', 39, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/filt...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(45): view('verifikasi/filt...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->filter('1')
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-31 21:37:34 --> Illegal string offset 'tanggal'
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\verifikasi\filter.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', 'C:\\xampp\\htdocs...', 39, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/filt...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(45): view('verifikasi/filt...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->filter('1')
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-31 21:41:45 --> Illegal string offset 'tanggal'
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\verifikasi\filter.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', 'C:\\xampp\\htdocs...', 39, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/filt...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(45): view('verifikasi/filt...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->filter('1')
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-31 21:41:50 --> Illegal string offset 'tanggal'
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\verifikasi\filter.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', 'C:\\xampp\\htdocs...', 39, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/filt...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(45): view('verifikasi/filt...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->filter('1')
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-31 21:41:57 --> Illegal string offset 'tanggal'
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\verifikasi\filter.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', 'C:\\xampp\\htdocs...', 39, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/filt...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(45): view('verifikasi/filt...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->filter('1')
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-31 21:42:09 --> Illegal string offset 'tanggal'
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\verifikasi\filter.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', 'C:\\xampp\\htdocs...', 39, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/filt...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(45): view('verifikasi/filt...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->filter('1')
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-31 21:42:24 --> Illegal string offset 'tanggal'
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\verifikasi\filter.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', 'C:\\xampp\\htdocs...', 39, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/filt...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(45): view('verifikasi/filt...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->filter('1')
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-31 21:42:51 --> Illegal string offset 'tanggal'
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\verifikasi\filter.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', 'C:\\xampp\\htdocs...', 39, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/filt...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(45): view('verifikasi/filt...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->filter('1')
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-31 21:43:02 --> Illegal string offset 'tanggal'
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\verifikasi\filter.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', 'C:\\xampp\\htdocs...', 39, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/filt...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(45): view('verifikasi/filt...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->filter('1')
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-31 21:43:21 --> Illegal string offset 'tanggal'
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\verifikasi\filter.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', 'C:\\xampp\\htdocs...', 39, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/filt...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(45): view('verifikasi/filt...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->filter('1')
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-31 21:44:06 --> Illegal string offset 'tanggal'
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\verifikasi\filter.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Illegal string ...', 'C:\\xampp\\htdocs...', 39, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/filt...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(45): view('verifikasi/filt...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->filter('1')
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-31 21:52:20 --> Undefined variable: title
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\layout\header.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 7, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(432): CodeIgniter\View\View->render('layout/header', NULL, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Views\layout\template.php(2): CodeIgniter\View\View->include('layout/header')
+#5 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(230): CodeIgniter\View\View->render('layout/template', Array, true)
+#8 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/filt...', Array, true)
+#9 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(45): view('verifikasi/filt...', Array)
+#10 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->filter('10')
+#11 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#12 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2022-03-31 21:52:32 --> Undefined variable: title
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\layout\header.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 7, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(432): CodeIgniter\View\View->render('layout/header', NULL, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Views\layout\template.php(2): CodeIgniter\View\View->include('layout/header')
+#5 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(230): CodeIgniter\View\View->render('layout/template', Array, true)
+#8 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/filt...', Array, true)
+#9 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(45): view('verifikasi/filt...', Array)
+#10 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->filter('2')
+#11 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#12 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2022-03-31 21:53:03 --> Undefined variable: title
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\layout\header.php(7): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 7, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(432): CodeIgniter\View\View->render('layout/header', NULL, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Views\layout\template.php(2): CodeIgniter\View\View->include('layout/header')
+#5 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(230): CodeIgniter\View\View->render('layout/template', Array, true)
+#8 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/filt...', Array, true)
+#9 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(45): view('verifikasi/filt...', Array)
+#10 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->filter('1')
+#11 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#12 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2022-03-31 21:54:09 --> Undefined variable: real
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\verifikasi\index.php(128): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 128, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/inde...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(36): view('verifikasi/inde...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->index()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-31 21:55:13 --> Too few arguments to function App\Controllers\Verifikasi::index(), 0 passed in C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php on line 824 and exactly 1 expected
+#0 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->index()
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-31 21:55:47 --> Too few arguments to function App\Controllers\Verifikasi::index(), 0 passed in C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php on line 824 and exactly 1 expected
+#0 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->index()
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-31 21:55:50 --> Too few arguments to function App\Controllers\Verifikasi::index(), 0 passed in C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php on line 824 and exactly 1 expected
+#0 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->index()
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-31 22:17:39 --> unlink(C:\xampp\htdocs\penerimaan-pad\writable\debugbar/debugbar_1648782233.json): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(C:\\xampp...', 'C:\\xampp\\htdocs...', 74, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar\Collectors\History.php(74): unlink('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar.php(483): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1648783052, 20)
+#3 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 C:\xampp\htdocs\penerimaan-pad\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 C:\xampp\htdocs\penerimaan-pad\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#7 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-31 22:17:45 --> file_get_contents(C:\xampp\htdocs\penerimaan-pad\writable\debugbar/debugbar_1648782418.json): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_conten...', 'C:\\xampp\\htdocs...', 80, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar\Collectors\History.php(80): file_get_contents('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar.php(483): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1648783061, 20)
+#3 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 C:\xampp\htdocs\penerimaan-pad\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 C:\xampp\htdocs\penerimaan-pad\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#7 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-31 22:17:45 --> file_get_contents(C:\xampp\htdocs\penerimaan-pad\writable\debugbar/debugbar_1648782418.json): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_conten...', 'C:\\xampp\\htdocs...', 80, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar\Collectors\History.php(80): file_get_contents('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar.php(483): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1648783056, 20)
+#3 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 C:\xampp\htdocs\penerimaan-pad\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 C:\xampp\htdocs\penerimaan-pad\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#7 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-31 22:17:45 --> file_get_contents(C:\xampp\htdocs\penerimaan-pad\writable\debugbar/debugbar_1648782415.json): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_conten...', 'C:\\xampp\\htdocs...', 80, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar\Collectors\History.php(80): file_get_contents('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar.php(483): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1648783059, 20)
+#3 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 C:\xampp\htdocs\penerimaan-pad\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 C:\xampp\htdocs\penerimaan-pad\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#7 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-31 22:17:56 --> file_get_contents(C:\xampp\htdocs\penerimaan-pad\writable\debugbar/debugbar_1648782496.json): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_conten...', 'C:\\xampp\\htdocs...', 80, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar\Collectors\History.php(80): file_get_contents('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar.php(483): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1648783072, 20)
+#3 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 C:\xampp\htdocs\penerimaan-pad\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 C:\xampp\htdocs\penerimaan-pad\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#7 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-31 22:17:56 --> file_get_contents(C:\xampp\htdocs\penerimaan-pad\writable\debugbar/debugbar_1648782481.json): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_conten...', 'C:\\xampp\\htdocs...', 80, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar\Collectors\History.php(80): file_get_contents('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar.php(483): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1648783067, 20)
+#3 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 C:\xampp\htdocs\penerimaan-pad\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 C:\xampp\htdocs\penerimaan-pad\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#7 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-31 22:17:56 --> unlink(C:\xampp\htdocs\penerimaan-pad\writable\debugbar/debugbar_1648782449.json): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(C:\\xampp...', 'C:\\xampp\\htdocs...', 74, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar\Collectors\History.php(74): unlink('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar.php(483): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1648783069, 20)
+#3 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 C:\xampp\htdocs\penerimaan-pad\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 C:\xampp\htdocs\penerimaan-pad\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#7 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-31 22:17:57 --> unlink(C:\xampp\htdocs\penerimaan-pad\writable\debugbar/debugbar_1648782496.json): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(C:\\xampp...', 'C:\\xampp\\htdocs...', 74, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar\Collectors\History.php(74): unlink('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar.php(483): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1648783076, 20)
+#3 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 C:\xampp\htdocs\penerimaan-pad\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 C:\xampp\htdocs\penerimaan-pad\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#7 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-31 22:18:08 --> file_get_contents(C:\xampp\htdocs\penerimaan-pad\writable\debugbar/debugbar_1648783043.json): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_conten...', 'C:\\xampp\\htdocs...', 80, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar\Collectors\History.php(80): file_get_contents('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar.php(483): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1648783080, 20)
+#3 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 C:\xampp\htdocs\penerimaan-pad\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 C:\xampp\htdocs\penerimaan-pad\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#7 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-31 22:18:08 --> unlink(C:\xampp\htdocs\penerimaan-pad\writable\debugbar/debugbar_1648783040.json): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(C:\\xampp...', 'C:\\xampp\\htdocs...', 74, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar\Collectors\History.php(74): unlink('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar.php(483): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1648783083, 20)
+#3 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 C:\xampp\htdocs\penerimaan-pad\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 C:\xampp\htdocs\penerimaan-pad\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#7 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-31 22:18:12 --> file_get_contents(C:\xampp\htdocs\penerimaan-pad\writable\debugbar/debugbar_1648783047.json): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_conten...', 'C:\\xampp\\htdocs...', 80, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar\Collectors\History.php(80): file_get_contents('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar.php(483): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1648783088, 20)
+#3 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 C:\xampp\htdocs\penerimaan-pad\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 C:\xampp\htdocs\penerimaan-pad\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#7 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-31 22:29:37 --> file_get_contents(C:\xampp\htdocs\penerimaan-pad\writable\debugbar/debugbar_1648783054.json): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_conten...', 'C:\\xampp\\htdocs...', 80, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar\Collectors\History.php(80): file_get_contents('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar.php(483): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1648783770, 20)
+#3 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 C:\xampp\htdocs\penerimaan-pad\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 C:\xampp\htdocs\penerimaan-pad\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#7 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-31 22:29:37 --> unlink(C:\xampp\htdocs\penerimaan-pad\writable\debugbar/debugbar_1648783054.json): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(C:\\xampp...', 'C:\\xampp\\htdocs...', 74, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar\Collectors\History.php(74): unlink('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar.php(483): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1648783773, 20)
+#3 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 C:\xampp\htdocs\penerimaan-pad\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 C:\xampp\htdocs\penerimaan-pad\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#7 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-31 22:29:37 --> file_get_contents(C:\xampp\htdocs\penerimaan-pad\writable\debugbar/debugbar_1648783054.json): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_conten...', 'C:\\xampp\\htdocs...', 80, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar\Collectors\History.php(80): file_get_contents('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar.php(483): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1648783766, 20)
+#3 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 C:\xampp\htdocs\penerimaan-pad\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 C:\xampp\htdocs\penerimaan-pad\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#7 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-31 22:29:37 --> file_get_contents(C:\xampp\htdocs\penerimaan-pad\writable\debugbar/debugbar_1648783054.json): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_conten...', 'C:\\xampp\\htdocs...', 80, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar\Collectors\History.php(80): file_get_contents('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar.php(483): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1648783768, 20)
+#3 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 C:\xampp\htdocs\penerimaan-pad\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 C:\xampp\htdocs\penerimaan-pad\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#7 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-31 22:30:01 --> file_get_contents(C:\xampp\htdocs\penerimaan-pad\writable\debugbar/debugbar_1648783076.json): failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_conten...', 'C:\\xampp\\htdocs...', 80, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar\Collectors\History.php(80): file_get_contents('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar.php(483): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1648783795, 20)
+#3 C:\xampp\htdocs\penerimaan-pad\system\Debug\Toolbar.php(460): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 C:\xampp\htdocs\penerimaan-pad\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 C:\xampp\htdocs\penerimaan-pad\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(300): CodeIgniter\Events\Events::trigger('pre_system')
+#7 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-31 22:32:57 --> Undefined variable: real
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\verifikasi\index.php(128): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 128, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/inde...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(36): view('verifikasi/inde...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->index()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-31 23:00:53 --> Undefined variable: verifikasi
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\verifikasi\filter_verifikasi.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 38, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/filt...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(67): view('verifikasi/filt...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->filter_verifikasi('1')
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-31 23:00:59 --> Undefined variable: verifikasi
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\verifikasi\filter_verifikasi.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 38, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/filt...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(67): view('verifikasi/filt...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->filter_verifikasi('1')
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-31 23:01:08 --> Undefined variable: verifikasi
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\verifikasi\filter_verifikasi.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 38, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/filt...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(67): view('verifikasi/filt...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->filter_verifikasi('3')
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-31 23:01:55 --> Undefined variable: verifikasi
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\verifikasi\filter_verifikasi.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 38, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/filt...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(67): view('verifikasi/filt...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->filter_verifikasi('2')
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-31 23:01:55 --> Undefined variable: verifikasi
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\verifikasi\filter_verifikasi.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 38, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/filt...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(67): view('verifikasi/filt...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->filter_verifikasi('2')
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-31 23:02:03 --> Undefined variable: verifikasi
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\verifikasi\filter_verifikasi.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 38, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/filt...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(67): view('verifikasi/filt...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->filter_verifikasi('1')
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-31 23:02:11 --> Undefined variable: verifikasi
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\verifikasi\filter_verifikasi.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 38, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/filt...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(67): view('verifikasi/filt...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->filter_verifikasi('1')
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-31 23:04:39 --> Undefined variable: verifikasi
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\verifikasi\filter_verifikasi.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 38, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/filt...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(67): view('verifikasi/filt...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->filter_verifikasi('5')
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-31 23:04:47 --> Undefined variable: verifikasi
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\verifikasi\filter_verifikasi.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 38, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('verifikasi/filt...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Verifikasi.php(67): view('verifikasi/filt...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Verifikasi->filter_verifikasi('4')
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Verifikasi))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

@@ -1,0 +1,232 @@
+CRITICAL - 2022-01-20 14:43:46 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\crud-ci4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\crud-ci4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\crud-ci4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\crud-ci4\spark(45): require('C:\\xampp\\htdocs...')
+#4 {main}
+ERROR - 2022-01-20 08:04:22 --> Error connecting to the database: Unknown database 'crud-ci4'
+CRITICAL - 2022-01-20 08:04:23 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'crud-ci4'
+#0 C:\xampp\htdocs\crud-ci4\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\crud-ci4\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\crud-ci4\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\crud-ci4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\xampp\htdocs\crud-ci4\app\Models\KomikModel.php(33): CodeIgniter\BaseModel->findAll()
+#5 C:\xampp\htdocs\crud-ci4\app\Controllers\Komik.php(21): App\Models\KomikModel->getKomik()
+#6 C:\xampp\htdocs\crud-ci4\system\CodeIgniter.php(824): App\Controllers\Komik->index()
+#7 C:\xampp\htdocs\crud-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Komik))
+#8 C:\xampp\htdocs\crud-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\crud-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\crud-ci4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2022-01-20 09:56:40 --> Class 'App\Models\JenisPajakModel' not found
+#0 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(801): App\Controllers\JenisPajak->__construct()
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-20 09:57:37 --> Class 'App\Models\JenisPajakModel' not found
+#0 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(801): App\Controllers\JenisPajak->__construct()
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-20 09:57:48 --> Class 'App\Models\JenisPajakModel' not found
+#0 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(801): App\Controllers\JenisPajak->__construct()
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+ERROR - 2022-01-20 16:43:38 --> Error connecting to the database: No connection could be made because the target machine actively refused it.
+
+CRITICAL - 2022-01-20 16:43:38 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it.
+
+#0 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\penerimaan-pad\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\penerimaan-pad\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Models\JenisPajakModel.php(33): CodeIgniter\BaseModel->findAll()
+#5 C:\xampp\htdocs\penerimaan-pad\app\Controllers\JenisPajak.php(21): App\Models\JenisPajakModel->getData()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\JenisPajak->index()
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JenisPajak))
+#8 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+ERROR - 2022-01-20 16:59:31 --> Table 'penerimaan-pad.komik' doesn't exist
+CRITICAL - 2022-01-20 16:59:31 --> Table 'penerimaan-pad.komik' doesn't exist
+#0 C:\xampp\htdocs\penerimaan-pad\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\penerimaan-pad\system\Validation\Rules.php(161): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\penerimaan-pad\system\Validation\Validation.php(277): CodeIgniter\Validation\Rules->is_unique('PAJAK DAERAH', 'judul', Array, NULL)
+#6 C:\xampp\htdocs\penerimaan-pad\system\Validation\Validation.php(151): CodeIgniter\Validation\Validation->processRules('jenis_pajak', 'jenis_pajak', 'PAJAK DAERAH', Array, Array)
+#7 C:\xampp\htdocs\penerimaan-pad\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\xampp\htdocs\penerimaan-pad\app\Controllers\JenisPajak.php(35): CodeIgniter\Controller->validate(Array)
+#9 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\JenisPajak->save()
+#10 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JenisPajak))
+#11 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#14 {main}
+ERROR - 2022-01-20 17:00:29 --> Table 'penerimaan-pad.komik' doesn't exist
+CRITICAL - 2022-01-20 17:00:29 --> Table 'penerimaan-pad.komik' doesn't exist
+#0 C:\xampp\htdocs\penerimaan-pad\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\penerimaan-pad\system\Validation\Rules.php(161): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\penerimaan-pad\system\Validation\Validation.php(277): CodeIgniter\Validation\Rules->is_unique('PAJAK DAERAH', 'judul', Array, NULL)
+#6 C:\xampp\htdocs\penerimaan-pad\system\Validation\Validation.php(151): CodeIgniter\Validation\Validation->processRules('jenis_pajak', 'jenis_pajak', 'PAJAK DAERAH', Array, Array)
+#7 C:\xampp\htdocs\penerimaan-pad\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\xampp\htdocs\penerimaan-pad\app\Controllers\JenisPajak.php(35): CodeIgniter\Controller->validate(Array)
+#9 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\JenisPajak->save()
+#10 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JenisPajak))
+#11 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#14 {main}
+ERROR - 2022-01-20 17:02:12 --> Unknown column 'created_at' in 'field list'
+CRITICAL - 2022-01-20 17:02:12 --> Unknown column 'created_at' in 'field list'
+#0 C:\xampp\htdocs\penerimaan-pad\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `je...', 0)
+#1 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `je...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `je...')
+#3 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseBuilder.php(1759): CodeIgniter\Database\BaseConnection->query('INSERT INTO `je...', Array, false)
+#4 C:\xampp\htdocs\penerimaan-pad\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\penerimaan-pad\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\penerimaan-pad\system\Model.php(620): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\penerimaan-pad\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\penerimaan-pad\app\Controllers\JenisPajak.php(46): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\JenisPajak->save()
+#10 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JenisPajak))
+#11 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#14 {main}
+ERROR - 2022-01-20 17:03:07 --> Unknown column 'created_at' in 'field list'
+CRITICAL - 2022-01-20 17:03:07 --> Unknown column 'created_at' in 'field list'
+#0 C:\xampp\htdocs\penerimaan-pad\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `je...', 0)
+#1 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `je...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `je...')
+#3 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseBuilder.php(1759): CodeIgniter\Database\BaseConnection->query('INSERT INTO `je...', Array, false)
+#4 C:\xampp\htdocs\penerimaan-pad\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\penerimaan-pad\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\penerimaan-pad\system\Model.php(620): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\penerimaan-pad\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\penerimaan-pad\app\Controllers\JenisPajak.php(46): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\JenisPajak->save()
+#10 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JenisPajak))
+#11 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#14 {main}
+ERROR - 2022-01-20 20:04:28 --> Table 'penerimaan-pad.data_opd' doesn't exist
+CRITICAL - 2022-01-20 20:04:28 --> Table 'penerimaan-pad.data_opd' doesn't exist
+#0 C:\xampp\htdocs\penerimaan-pad\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\penerimaan-pad\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\penerimaan-pad\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\penerimaan-pad\app\Models\DataOpdModel.php(33): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\penerimaan-pad\app\Controllers\DataOpd.php(22): App\Models\DataOpdModel->getData()
+#8 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\DataOpd->index()
+#9 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataOpd))
+#10 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#13 {main}
+CRITICAL - 2022-01-20 20:05:18 --> Invalid file: data_master/data_opd.php
+#0 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('data_master/dat...')
+#1 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('data_master/dat...', Array, true)
+#2 C:\xampp\htdocs\penerimaan-pad\app\Controllers\DataOpd.php(25): view('data_master/dat...', Array)
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\DataOpd->index()
+#4 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataOpd))
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-20 20:05:30 --> Invalid file: data_master/data_opd.php
+#0 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('data_master/dat...')
+#1 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('data_master/dat...', Array, true)
+#2 C:\xampp\htdocs\penerimaan-pad\app\Controllers\DataOpd.php(25): view('data_master/dat...', Array)
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\DataOpd->index()
+#4 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataOpd))
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-01-20 20:16:47 --> Undefined property: App\Controllers\DataOpd::$JenisPajakModel
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\DataOpd.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 25, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\DataOpd->index()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataOpd))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-01-20 20:18:48 --> Undefined property: App\Controllers\DataOpd::$JenisPajakModel
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\DataOpd.php(25): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 25, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\DataOpd->index()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataOpd))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2022-01-20 20:24:15 --> Table 'penerimaan-pad.data_opd' doesn't exist
+CRITICAL - 2022-01-20 20:24:15 --> Table 'penerimaan-pad.data_opd' doesn't exist
+#0 C:\xampp\htdocs\penerimaan-pad\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\penerimaan-pad\system\Validation\Rules.php(161): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\penerimaan-pad\system\Validation\Validation.php(277): CodeIgniter\Validation\Rules->is_unique('BADAN PENDAPATA...', 'nama_opd', Array, NULL)
+#6 C:\xampp\htdocs\penerimaan-pad\system\Validation\Validation.php(151): CodeIgniter\Validation\Validation->processRules('nama_opd', 'nama_opd', 'BADAN PENDAPATA...', Array, Array)
+#7 C:\xampp\htdocs\penerimaan-pad\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#8 C:\xampp\htdocs\penerimaan-pad\app\Controllers\DataOpd.php(39): CodeIgniter\Controller->validate(Array)
+#9 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\DataOpd->save()
+#10 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataOpd))
+#11 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#14 {main}
+ERROR - 2022-01-20 20:25:25 --> Unknown column 'created_at' in 'field list'
+CRITICAL - 2022-01-20 20:25:25 --> Unknown column 'created_at' in 'field list'
+#0 C:\xampp\htdocs\penerimaan-pad\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `op...', 0)
+#1 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `op...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `op...')
+#3 C:\xampp\htdocs\penerimaan-pad\system\Database\BaseBuilder.php(1759): CodeIgniter\Database\BaseConnection->query('INSERT INTO `op...', Array, false)
+#4 C:\xampp\htdocs\penerimaan-pad\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\penerimaan-pad\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\penerimaan-pad\system\Model.php(620): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\penerimaan-pad\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\penerimaan-pad\app\Controllers\DataOpd.php(51): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\DataOpd->save()
+#10 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataOpd))
+#11 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#14 {main}
+CRITICAL - 2022-01-20 20:43:24 --> Class 'App\Models\KodeRekeningModel' not found
+#0 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(801): App\Controllers\KodeRekening->__construct()
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-01-20 20:44:36 --> Undefined variable: opd
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\data_master\kode_rekening.php(110): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 110, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('data_master/kod...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\KodeRekening.php(29): view('data_master/kod...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\KodeRekening->index()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KodeRekening))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}

@@ -1,0 +1,89 @@
+CRITICAL - 2022-02-03 01:38:00 --> Undefined variable: bulan_lalu
+#0 C:\xampp\htdocs\penerimaan-pad\app\Models\LaporanModel.php(91): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 91, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(84): App\Models\LaporanModel->bulan_lalu()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#4 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-02-03 01:45:52 --> Too few arguments to function App\Models\LaporanModel::bulan_lalu(), 0 passed in C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php on line 86 and exactly 1 expected
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(86): App\Models\LaporanModel->bulan_lalu()
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2022-02-03 02:18:45 --> Too few arguments to function App\Controllers\LaporanPerdinas::excel(), 0 passed in C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php on line 824 and exactly 2 expected
+#0 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->excel()
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-03 02:18:54 --> Too few arguments to function App\Controllers\LaporanPerdinas::excel(), 0 passed in C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php on line 824 and exactly 2 expected
+#0 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->excel()
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-02-03 20:21:56 --> A non well formed numeric value encountered
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\laporan\perdinas.php(246): CodeIgniter\Debug\Exceptions->errorHandler(8, 'A non well form...', 'C:\\xampp\\htdocs...', 246, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('laporan/perdina...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(87): view('laporan/perdina...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-03 20:30:52 --> syntax error, unexpected 'jenis_pajak' (T_STRING), expecting ')'
+#0 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('laporan/perdina...', Array, true)
+#2 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(87): view('laporan/perdina...', Array)
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#4 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2022-02-03 20:51:00 --> A non well formed numeric value encountered
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\laporan\perdinas.php(246): CodeIgniter\Debug\Exceptions->errorHandler(8, 'A non well form...', 'C:\\xampp\\htdocs...', 246, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('laporan/perdina...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(87): view('laporan/perdina...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2022-02-03 21:01:45 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include()
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('laporan/perdina...', Array, true)
+#3 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(87): view('laporan/perdina...', Array)
+#4 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-02-03 21:55:28 --> ceil() expects exactly 1 parameter, 2 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ceil() expects ...', 'C:\\xampp\\htdocs...', 256, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\app\Views\laporan\perdinas.php(256): ceil(6.3333333333333E-5, 3)
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('laporan/perdina...', Array, true)
+#5 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(87): view('laporan/perdina...', Array)
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->index()
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#8 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\penerimaan-pad\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}

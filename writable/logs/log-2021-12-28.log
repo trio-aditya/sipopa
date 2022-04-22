@@ -1,0 +1,30 @@
+ERROR - 2021-12-28 22:31:27 --> Error connecting to the database: Unknown database 'crud-ci4'
+CRITICAL - 2021-12-28 22:31:27 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'crud-ci4'
+#0 C:\xampp\htdocs\crud-ci4\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\crud-ci4\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\crud-ci4\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\crud-ci4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\xampp\htdocs\crud-ci4\app\Models\KomikModel.php(33): CodeIgniter\BaseModel->findAll()
+#5 C:\xampp\htdocs\crud-ci4\app\Controllers\Komik.php(21): App\Models\KomikModel->getKomik()
+#6 C:\xampp\htdocs\crud-ci4\system\CodeIgniter.php(824): App\Controllers\Komik->index()
+#7 C:\xampp\htdocs\crud-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Komik))
+#8 C:\xampp\htdocs\crud-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\crud-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\crud-ci4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+ERROR - 2021-12-28 22:31:28 --> Error connecting to the database: Unknown database 'crud-ci4'
+CRITICAL - 2021-12-28 22:31:28 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'crud-ci4'
+#0 C:\xampp\htdocs\crud-ci4\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\crud-ci4\system\Database\BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\crud-ci4\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\crud-ci4\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\xampp\htdocs\crud-ci4\app\Models\KomikModel.php(33): CodeIgniter\BaseModel->findAll()
+#5 C:\xampp\htdocs\crud-ci4\app\Controllers\Komik.php(21): App\Models\KomikModel->getKomik()
+#6 C:\xampp\htdocs\crud-ci4\system\CodeIgniter.php(824): App\Controllers\Komik->index()
+#7 C:\xampp\htdocs\crud-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Komik))
+#8 C:\xampp\htdocs\crud-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\crud-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\crud-ci4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#11 {main}

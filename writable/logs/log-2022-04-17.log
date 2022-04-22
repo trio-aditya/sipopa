@@ -1,0 +1,162 @@
+CRITICAL - 2022-04-17 01:29:49 --> Call to undefined method App\Models\LaporanPadModel::bulan_ini
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPad.php(765): CodeIgniter\Model->__call('bulan_ini', Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPad->filter()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPad))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-17 01:52:34 --> Undefined variable: bl_tanggal_awal
+#0 C:\xampp\htdocs\penerimaan-pad\app\Models\LaporanPadModel.php(2364): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 2364, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPad.php(908): App\Models\LaporanPadModel->bl_rju5('2022-03-01', '2022-03-31')
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPad->filter()
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPad))
+#4 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-17 02:07:08 --> Call to undefined method App\Models\LaporanPadModel::retribusi_bulan_ini3
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPad.php(957): CodeIgniter\Model->__call('retribusi_bulan...', Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPad->filter()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPad))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-17 02:16:33 --> Call to undefined method App\Models\LaporanPadModel::bulan_ini18
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPad.php(806): CodeIgniter\Model->__call('bulan_ini18', Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPad->filter()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPad))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-17 02:35:59 --> Call to undefined method App\Models\LaporanPadModel::bulan_ini515
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPad.php(1034): CodeIgniter\Model->__call('bulan_ini515', Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPad->filter()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPad))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-17 02:47:57 --> Call to undefined method App\Models\LaporanPadModel::bulan_lalu701
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\laporan\filter_pad.php(1715): CodeIgniter\Model->__call('bulan_lalu701', Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('laporan/filter_...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPad.php(1084): view('laporan/filter_...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPad->filter()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPad))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-17 02:48:51 --> Call to undefined method App\Models\LaporanPadModel::bulan_lalu701
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\laporan\filter_pad.php(1715): CodeIgniter\Model->__call('bulan_lalu701', Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('laporan/filter_...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPad.php(1084): view('laporan/filter_...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPad->filter()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPad))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-17 02:54:55 --> Call to undefined method App\Models\LaporanPadModel::bulan_lalu801
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\laporan\filter_pad.php(1798): CodeIgniter\Model->__call('bulan_lalu801', Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('laporan/filter_...', Array, true)
+#4 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPad.php(1084): view('laporan/filter_...', Array)
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPad->filter()
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPad))
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-17 22:29:06 --> Undefined property: App\Controllers\Laporan::$laporanFilterModel
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Laporan.php(32): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Laporan->index()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-17 22:31:37 --> Class 'App\Models\LaporanPerdinasModel' not found
+#0 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(801): App\Controllers\Laporan->__construct()
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-17 22:32:11 --> Call to undefined function tgl_indo()
+#0 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include()
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('laporan/laporan', Array, true)
+#3 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Laporan.php(24): view('laporan/laporan', Array)
+#4 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Laporan->index()
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-17 22:34:24 --> Call to undefined function tgl_indo()
+#0 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include()
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('laporan/laporan', Array, true)
+#3 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Laporan.php(24): view('laporan/laporan', Array)
+#4 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Laporan->index()
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-17 22:36:30 --> Call to a member function getJenis1() on null
+#0 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Laporan->filter()
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-17 22:37:13 --> Call to a member function sumTarget1() on null
+#0 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Laporan->filter()
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-17 22:38:00 --> Call to a member function getData1() on null
+#0 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Laporan->filter()
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-17 22:39:04 --> Call to a member function sumRealisasi() on null
+#0 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Laporan->filter()
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-17 23:08:11 --> Undefined property: App\Controllers\Laporan::$laporanPadModel
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Laporan.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 38, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Laporan->filter()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-17 23:09:10 --> Undefined property: App\Controllers\Laporan::$laporanPadModel
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Laporan.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 38, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Laporan->filter()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-17 23:09:49 --> Undefined offset: 2
+#0 C:\xampp\htdocs\penerimaan-pad\app\Views\laporan\laporan_filter.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 19, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\app\Views\laporan\laporan_filter.php(674): tgl_indo(3)
+#2 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('laporan/laporan...', Array, true)
+#5 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Laporan.php(385): view('laporan/laporan...', Array)
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Laporan->filter()
+#7 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#8 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-17 23:16:02 --> Call to undefined function 2022-02-28()
+#0 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(214): include()
+#1 C:\xampp\htdocs\penerimaan-pad\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\penerimaan-pad\system\Common.php(1097): CodeIgniter\View\View->render('laporan/laporan...', Array, true)
+#3 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Laporan.php(385): view('laporan/laporan...', Array)
+#4 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Laporan->filter()
+#5 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#6 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}

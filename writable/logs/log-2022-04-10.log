@@ -1,0 +1,38 @@
+CRITICAL - 2022-04-10 22:44:12 --> Too few arguments to function App\Models\LaporanModel::sumRealisasi(), 0 passed in C:\xampp\htdocs\penerimaan-pad\app\Controllers\Pages.php on line 138 and exactly 1 expected
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Pages.php(138): App\Models\LaporanModel->sumRealisasi()
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Pages->index()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-10 22:46:54 --> Too few arguments to function App\Models\LaporanModel::sumRealisasi(), 0 passed in C:\xampp\htdocs\penerimaan-pad\app\Controllers\Pages.php on line 138 and exactly 1 expected
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Pages.php(138): App\Models\LaporanModel->sumRealisasi()
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Pages->index()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-10 22:48:14 --> Too few arguments to function App\Models\LaporanModel::sumRealisasi(), 0 passed in C:\xampp\htdocs\penerimaan-pad\app\Controllers\Pages.php on line 138 and exactly 1 expected
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\Pages.php(138): App\Models\LaporanModel->sumRealisasi()
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\Pages->index()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-10 23:27:02 --> Undefined property: App\Controllers\LaporanPerdinas::$laporanCobaModel
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(1189): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 1189, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->filter2()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-10 23:27:28 --> Undefined property: App\Controllers\LaporanPerdinas::$laporanCobaModel
+#0 C:\xampp\htdocs\penerimaan-pad\app\Controllers\LaporanPerdinas.php(1189): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 1189, Array)
+#1 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(824): App\Controllers\LaporanPerdinas->filter2()
+#2 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LaporanPerdinas))
+#3 C:\xampp\htdocs\penerimaan-pad\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\penerimaan-pad\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-10 23:28:18 --> Cannot declare class App\Models\LaporanModel, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}

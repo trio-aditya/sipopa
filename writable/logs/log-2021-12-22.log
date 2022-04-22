@@ -1,0 +1,30 @@
+CRITICAL - 2021-12-22 21:17:55 --> Invalid file: auth/login.php
+#0 C:\xampp8\htdocs\crud-ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('auth/login.php')
+#1 C:\xampp8\htdocs\crud-ci4\system\Common.php(1097): CodeIgniter\View\View->render('auth/login', Array, true)
+#2 C:\xampp8\htdocs\crud-ci4\app\Controllers\Auth.php(9): view('auth/login')
+#3 C:\xampp8\htdocs\crud-ci4\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#4 C:\xampp8\htdocs\crud-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 C:\xampp8\htdocs\crud-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp8\htdocs\crud-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp8\htdocs\crud-ci4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp8\\htdoc...')
+#8 {main}
+CRITICAL - 2021-12-22 21:18:13 --> Invalid file: auth/login.php
+#0 C:\xampp8\htdocs\crud-ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('auth/login.php')
+#1 C:\xampp8\htdocs\crud-ci4\system\Common.php(1097): CodeIgniter\View\View->render('auth/login', Array, true)
+#2 C:\xampp8\htdocs\crud-ci4\app\Controllers\Auth.php(9): view('auth/login')
+#3 C:\xampp8\htdocs\crud-ci4\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#4 C:\xampp8\htdocs\crud-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 C:\xampp8\htdocs\crud-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp8\htdocs\crud-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp8\htdocs\crud-ci4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp8\\htdoc...')
+#8 {main}
+CRITICAL - 2021-12-22 21:18:14 --> Invalid file: auth/login.php
+#0 C:\xampp8\htdocs\crud-ci4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('auth/login.php')
+#1 C:\xampp8\htdocs\crud-ci4\system\Common.php(1097): CodeIgniter\View\View->render('auth/login', Array, true)
+#2 C:\xampp8\htdocs\crud-ci4\app\Controllers\Auth.php(9): view('auth/login')
+#3 C:\xampp8\htdocs\crud-ci4\system\CodeIgniter.php(824): App\Controllers\Auth->index()
+#4 C:\xampp8\htdocs\crud-ci4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#5 C:\xampp8\htdocs\crud-ci4\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp8\htdocs\crud-ci4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp8\htdocs\crud-ci4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp8\\htdoc...')
+#8 {main}
